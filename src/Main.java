@@ -18,7 +18,7 @@ import javax.swing.JFileChooser;
 
 public class Main {
 
-    private static final String API_KEY = "2127a972d43846358ed7acbfc4cbed09";
+    private static final String API_KEY = "Your_AssemblyAI_api_key";
 
     public static void main(String[] args) {
         HttpClient httpClient = HttpClient.newBuilder()
